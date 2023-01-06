@@ -1,2 +1,2 @@
 # freedom-fighters
-we are creating freedom fighter website
+Iam creating freedom fighter website
